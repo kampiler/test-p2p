@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=100%, initial-scale=1.0">
-    <title>Document</title>
+    <title>проверка CI CD - ручной пайплайн для deploy на хостинг JINO через github</title>
 </head>
 <body>
     Здравствуй МИР!!! <hr>
@@ -16,7 +16,7 @@
 
     <hr>
     <?php
-    echo $_SERVER['REMOTE_ADDR']."<hr>\n";
+    echo "Ваш IP-адрес: ".$_SERVER['REMOTE_ADDR']."<hr>\n";
     phpinfo();
     #
     ?>
