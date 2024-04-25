@@ -9,9 +9,9 @@
     Здравствуй МИР!!! <hr>
 
     <ul>
-        <li>1</li>
-        <li>2</li>
-        <li>3</li>
+        <li>1 проверка связи через Github</li>
+        <li>2 ci cd - Continuous Integration and Continuous Deployment</li>
+        <li>3 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis deserunt quisquam aliquid dolores atque! Cum, quis asperiores! Quas commodi sed ratione autem obcaecati quis cupiditate excepturi vel sapiente, quo molestias.</li>
     </ul>
 
     <hr>
