@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=100%, initial-scale=1.0">
     <title>проверка CI CD - ручной пайплайн для deploy на хостинг JINO через github</title>
+    <link rel='icon' href='/favicon.ico'>
 </head>
 <body>
     Здравствуй МИР!!! <hr>
