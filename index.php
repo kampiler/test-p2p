@@ -24,7 +24,7 @@
     echo "<hr><h1>Таблица умножения (Таблица Пифагора)</h1>\n";
     echo "<table>\n";
     for($i=1;$i<10;$i++){
-        echo "<tr>";
+        echo "<tr>\n";
         for($j=1;$j<10;$j++){
             echo "\t<td align='center'>".$i*$j."</td>";
         }
